@@ -1,10 +1,10 @@
 {
-	"name": "Tile Matcher Example",
-	"short_name": "Tile Matcher Example",
-	"description": "",
+	"name": "Bird-in-Danger",
+	"short_name": "Bird-in-Danger",
+	"description": "Bird-in-Danger",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
+	"orientation": "portrait",
 	"background_color": "#ffffff",
 	"icons": [
 		{
@@ -18,8 +18,8 @@
 			"type": "image/png"
 		},
 		{
-			"src": "icons/icon-64.png",
-			"sizes": "64x64",
+			"src": "icons/icon-114.png",
+			"sizes": "114x114",
 			"type": "image/png"
 		},
 		{
@@ -30,11 +30,6 @@
 		{
 			"src": "icons/icon-256.png",
 			"sizes": "256x256",
-			"type": "image/png"
-		},
-		{
-			"src": "icons/icon-512.png",
-			"sizes": "512x512",
 			"type": "image/png"
 		}
 	],
